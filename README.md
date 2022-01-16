@@ -14,9 +14,10 @@ Image by AuthorLDA would discover latent topics that these sentences contain. G
 
 <img src="https://user-images.githubusercontent.com/65237445/149661922-c0effb32-f8ea-4181-ba4a-1cb0e7292358.png" width="500" height = "300">
 
-Document 1 and 2: 100% Topic A
-Document 3 and 4: 100% Topic B
-Document 5: 50% Topic A, 50% Topic B
+Document 1 and 2: 100% Topic A <br/>
+Document 3 and 4: 100% Topic B <br/>
+Document 5: 50% Topic A, 50% Topic B <br/>
+
 where Topic A: 30% Apple, 10% orange, 10% milk, 10% pie, 10% market …. (One would interpret topic A to be about food) and 
 Topic B: 30% market, 10% stationary, 10% bought, …….(One would interpret topic B to be about food)
 Thus, LDA represents documents as a mixture of topics and every topic as a mixture of words.
