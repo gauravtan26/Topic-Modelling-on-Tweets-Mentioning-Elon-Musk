@@ -18,6 +18,6 @@ Document 1 and 2: 100% Topic A <br/>
 Document 3 and 4: 100% Topic B <br/>
 Document 5: 50% Topic A, 50% Topic B <br/>
 
-where Topic A: 30% Apple, 10% orange, 10% milk, 10% pie, 10% market …. (One would interpret topic A to be about food) and 
-Topic B: 30% market, 10% stationary, 10% bought, …….(One would interpret topic B to be about food)
+where Topic A: 30% Apple, 10% orange, 10% milk, 10% pie, 10% market …. (One would interpret topic A to be about food) <br/> 
+and Topic B: 30% market, 10% stationary, 10% bought, …….(One would interpret topic B to be about food) <br/>
 Thus, LDA represents documents as a mixture of topics and every topic as a mixture of words.
