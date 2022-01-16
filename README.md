@@ -12,7 +12,7 @@ To understand the LDA algorithm, let's look at this example.
 Suppose you have the following documents. 
 Image by AuthorLDA would discover latent topics that these sentences contain. Given these sentences, LDA might produce something like:
 
-<img src="https://user-images.githubusercontent.com/65237445/149661922-c0effb32-f8ea-4181-ba4a-1cb0e7292358.png" width="400" height = "400">
+<img src="https://user-images.githubusercontent.com/65237445/149661922-c0effb32-f8ea-4181-ba4a-1cb0e7292358.png" width="500" height = "300">
 
 Document 1 and 2: 100% Topic A
 Document 3 and 4: 100% Topic B
