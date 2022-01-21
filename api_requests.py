@@ -27,7 +27,7 @@ query_params_dict = {
 ######## HEADERS ##########
 
 # make a developer account on twitter and use the bearer token specified there
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAMT5XgEAAAAAuiBcbkAuEM3cEqo%2FNuZEjqj0aGA%3DFYbDVAZ2CdLH1v2RcBOAu53YZFAu7lNxtDNyIjRbWmFE5VbGf0"
+BEARER_TOKEN = ""
 
 header = []
 header.append("Authorization: Bearer " + BEARER_TOKEN)
