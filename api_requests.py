@@ -17,7 +17,7 @@ wait_time = 2
 # use the twitter API tool to construct query strings easier. Refer https://developer.twitter.com/apitools/api?endpoint=%2F2%2Ftweets%2Fsearch%2Frecent&method=get
 base_api_endpoint = "https://api.twitter.com/2/tweets/search/recent"
 
-query_string = "query=(jlr%20OR%20jaguar%20OR%20landrover%20OR%20jaguarlandrover%20OR%20%23jlr%20OR%20%23jaguar%20OR%20%23landrover%20OR%20%23jaguarlandrover)%20lang%3Aen%20-is%3Aretweet"
+query_string = ""
                 
 query_params_dict = {
     "max_results" : "100", # enter number between 10 and 100
